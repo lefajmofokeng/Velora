@@ -6,7 +6,7 @@
 
 ## Live Preview
 
-[View Live Demo](https://thisislefa.github.io/VeloraFashionWeb)
+[View Live Demo](https://lefajmofokeng.github.io/Velora)
 
 **Important Notice:** This is a demonstration version showcasing design and layout capabilities. For access to the complete e-commerce functionality including shopping cart, checkout processes, user accounts, and admin panel, please contact: **lefamjack@gmail.com**
 
@@ -229,5 +229,6 @@ For the complete platform with all e-commerce features, database integration, an
 
 **Documentation Version**: 1.0  
 **Project**: Velora Fashion Website
+
 
 
